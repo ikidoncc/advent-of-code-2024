@@ -4,7 +4,7 @@ This project tracks my progress from the 2024 Advent of Code event.
 
 ## Progress
 
-Day 1  [x]  []  
+Day 1  [x]  [x]  
 Day 2  []  []  
 Day 3  []  []  
 Day 4  []  []  
